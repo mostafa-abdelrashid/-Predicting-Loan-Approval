@@ -1,5 +1,4 @@
 #  Predicting Loan Approval  using Logistic Regression and Decision Trees 
- Predicting Loan Approval  using Logistic Regression and Decision Trees with Regularization and Hyperparameter Tuning
 
  ## 📖 Project Overview
 This project aims to build and compare machine learning models to predict loan eligibility. We implement and tune Logistic Regression (with L1, L2, and ElasticNet regularization) and Decision Tree classifiers, evaluating their performance with and without hyperparameter tuning via GridSearchCV.
