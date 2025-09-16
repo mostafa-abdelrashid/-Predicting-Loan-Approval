@@ -40,7 +40,7 @@ We implement and tune **Logistic Regression** (with L1, L2, and ElasticNet regul
 | Decision Tree (CV)              | 79.41%        | 0.843                  | 0.680               | 0.701                 | CV successfully mitigated overfitting |
 | Random Forest (CV)              | 79.41%        | 0.843                  | 0.680               | 0.701                 | Excellent performance post-CV |
 
-![Comparison](https://comparison.png)
+![Comparison](comparison.png)
 
 ---
 
